@@ -95,11 +95,6 @@ Jika Anda ingin berkontribusi atau menyalin proyek ini sebagai basis portofolio 
 2. Buat branch baru untuk fitur/bugfix: `git checkout -b fitur-baru`.
 3. Commit perubahan dan buka pull request.
 
-Kontak
-------
-
-Untuk pertanyaan atau kolaborasi, cantumkan detail kontak Anda di sini (mis. email atau tautan LinkedIn/GitHub). Jika Anda ingin, saya bisa membantu menambahkan section kontak yang terhubung ke alamat email atau formulir.
-
 Lisensi
 -------
 
